@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pouria</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 🔭 I’m currently working on [**Telegram Stranger Bot**](https://github.com/p-forghani/stranger_telegram_bot) 
+- 🔭 I’m currently working on [**Spyfall Telegram Bot**](https://github.com/p-forghani/spy_telegram_bot) 
 
 - 🌱 I’m currently learning **Python, Django, Flask**
 
