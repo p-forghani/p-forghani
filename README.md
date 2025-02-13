@@ -1,5 +1,5 @@
 <h1 align="center">I'm Pouria</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A Backend developer</h3>
 
 - 🔭 I’m currently working on [Microblog](https://github.com/p-forghani/microblog) and [Finance Manager](https://github.com/p-forghani/finance-mananger)
 
