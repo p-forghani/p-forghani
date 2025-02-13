@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Microblog](https://github.com/p-forghani/microblog) and [Finance Manager](https://github.com/p-forghani/finance-mananger)
 
-- 🌱 I’m currently learning **Python, Flask, PostgreSQL**
+- 🌱 I’m currently learning **Flask, PostgreSQL, SQLAlchemy**
 
 - 📫 How to reach me **forghani.dev@gmail.com**
 
