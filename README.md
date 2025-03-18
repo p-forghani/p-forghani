@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, PostgreSQL, SQLAlchemy**
 
-- 📫 How to reach me **forghani.dev@gmail.com**
+- 📫 Reach me at **forghani.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
