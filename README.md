@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ClientEase](https://github.com/p-forghani/client-ease)
 
-- 🌱 I’m currently learning **Flask, PostgreSQL, SQLAlchemy**
+- 🌱 I’m currently learning **PostgreSQL, SQLAlchemy**
 
 - 📫 Reach me at **forghani.dev@gmail.com**
 
