@@ -1,9 +1,9 @@
 <h1 align="center">I'm Pouria</h1>
 <h3 align="center">A Backend developer</h3>
 
-- 🔭 I’m currently working on [ClientEase](https://github.com/p-forghani/client-ease)
+- 🔭 I’m currently working on [ClientEase](https://github.com/p-forghani/client-ease) & [Game Manager Bot](https://github.com/p-forghani/game-manager-bot)
 
-- 🌱 I’m currently learning **PostgreSQL, SQLAlchemy**
+- 🌱 I’m currently learning **PostgreSQL, SQLAlchemy, Docker**
 
 - 📫 Reach me at **forghani.dev@gmail.com**
 
