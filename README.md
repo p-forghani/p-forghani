@@ -1,9 +1,9 @@
 <h1 align="center">I'm Pouria</h1>
 <h3 align="center">A Backend developer</h3>
 
-- 🔭 I’m currently working on [TebLink](https://github.com/p-forghani/teblink) and [ClientEase](https://github.com/p-forghani/client-ease)
+- 🔭 I’m currently working on [ClientEase](https://github.com/p-forghani/client-ease)
 
-- 🌱 I’m currently learning **FastAPI, Docker**
+- 🌱 I’m currently learning **FastAPI, Docker, PostgreSQL**
 
 - 📫 Reach me at **forghani.dev@gmail.com**
 
